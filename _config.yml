@@ -9,7 +9,7 @@ name: RUDEvops
 description: Личные заметки на тему DevOps
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-# avatar: https://rudevops.info/images/logo.jpeg
+avatar: https://rudevops.info/images/logo.jpeg
 
 #
 # Flags below are optional
@@ -76,7 +76,7 @@ sass:
 gems:
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
   - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
-
+  
 # Exclude these files from your production _site
 exclude:
   - Gemfile
@@ -85,4 +85,4 @@ exclude:
   - README.md
   - CNAME
 
-theme: jekyll-theme-cayman
+theme: jekyll-theme-minimal
